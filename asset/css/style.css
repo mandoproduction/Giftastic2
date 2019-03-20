@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.github{
+    width: 5em;
+    height: 25px;
+    float: center;
+}
+.searchBtn{
+    width: 25px;
+    height: 25px;
+    background-color: brown
+}
+
